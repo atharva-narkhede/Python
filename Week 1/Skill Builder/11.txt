@@ -1,0 +1,7 @@
+# You are using Python
+# find speed and round off to two decimal values
+distance=245
+time=8
+speed=distance/time
+b=round(speed,2)
+print(b)

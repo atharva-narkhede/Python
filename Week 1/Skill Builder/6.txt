@@ -1,0 +1,4 @@
+l=int(input())
+b=int(input())
+perimeter=2*(l+b)
+print(perimeter)
