@@ -1,0 +1,8 @@
+a=input()
+b=int(input())
+c=float(input())
+print(a)
+print('**')
+print(b)
+print('**')
+print(c)

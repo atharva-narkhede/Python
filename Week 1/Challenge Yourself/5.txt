@@ -1,0 +1,2 @@
+a=float(input())
+print('The price is',round(a,2))

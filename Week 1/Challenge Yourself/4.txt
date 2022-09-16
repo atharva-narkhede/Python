@@ -1,0 +1,4 @@
+y=int(input())
+x=int(input())
+c=(y**2)-(x**2)
+print(c)
