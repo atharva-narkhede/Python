@@ -1,0 +1,6 @@
+a=float(input())
+b=float(input())
+c=float(input())
+gain=((c-a-b)/(a+b))*100
+
+print("{:.2f}".format(gain))
