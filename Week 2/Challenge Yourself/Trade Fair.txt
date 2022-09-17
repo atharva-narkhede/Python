@@ -1,0 +1,7 @@
+total=int(input())
+d1=total/3.5
+d2=d1*2
+d3=0.5*d1
+print("Attendees on day 1 :",int(d1))
+print("Attendees on day 2 :",int(d2))
+print("Attendees on day 3 :",int(d3))

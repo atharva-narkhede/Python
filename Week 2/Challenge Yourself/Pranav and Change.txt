@@ -1,0 +1,14 @@
+# You are using Python
+x=int(input())
+a=int(x/100)
+x=x%100
+b=int(x/50)
+x=x%50
+c=int(x/10)
+x=x%10
+d=int(x/5)
+x=x%5
+e=int(x/2)
+x=x%2
+f=int(x)
+print(a+b+c+d+e+f)

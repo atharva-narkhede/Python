@@ -1,0 +1,14 @@
+be=float(input())
+te=float(input())
+fe=float(input())
+le=float(input())
+total=be+fe+le+te
+a=(be/total)*100
+b=(te/total)*100
+c=(fe/total)*100
+d=(le/total)*100
+print("{:.2f}".format(total))
+print("{:.2f}".format(a),"%",sep="")
+print("{:.2f}".format(b),"%",sep="")
+print("{:.2f}".format(c),"%",sep="")
+print("{:.2f}".format(d),"%",sep="")
