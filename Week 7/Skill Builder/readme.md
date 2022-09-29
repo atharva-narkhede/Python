@@ -1,1 +1,4 @@
-#skill builder
+# Skill Builder
+[Q1. High School TopCoder -Green Wood High School is set to premier a programming tournament for high school-aged math and science students across the country. Based on this contest, the school has called in for all the interested candidates to take up a qualifying test at the school premises.](https://github.com/atharva-narkhede/Python/blob/main/Week%207/Skill%20Builder/High%20School%20TopCoder%20Green%20Wood%20High%20School%20is%20set%20to%20premier%20a%20programming%20tournament%20for%20high%20school-aged%20math%20and%20science%20students%20across%20the%20country.py)
+
+[Q2. Write a program to obtain the radius of the circle as a parameter and use three different functions to find the diameter, circumference, and area of the circle. Each function should return the respective values.](https://github.com/atharva-narkhede/Python/blob/main/Week%207/Skill%20Builder/Write%20a%20program%20to%20obtain%20the%20radius%20of%20the%20circle%20as%20a%20parameter%20and%20use%20three%20different%20functions%20to%20find%20the%20diameter%2C%20circumference%2C%20and%20area%20of%20the%20circle.py)
