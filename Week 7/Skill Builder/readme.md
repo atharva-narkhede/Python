@@ -13,4 +13,8 @@
 
 [Q7. Best Programmer -Baldwin High School's Best Programmer Contest is organized today and the contest hones the students coding skills by making them solve different challenges. Based on the speed and accuracy with which the students finish the challenges, the Event coordinators will rank the participants and reward them. ](https://github.com/atharva-narkhede/Python/blob/main/Week%207/Skill%20Builder/Best%20Programmer%20Baldwin%20High%20School.py)
 
-[]()
+[Q8. Write a python function program to calculate power of a number raised to other. E.g.- ab using recursion.](https://github.com/atharva-narkhede/Python/blob/main/Week%207/Skill%20Builder/Write%20a%20python%20function%20program%20to%20calculate%20power%20of%20a%20number%20raised%20to%20other.%20E.g.-%20ab%20using%20recursion..py)
+
+[Q9. Write a program that accepts a string S, and characters c1, c2. Replace character c1 with c2 and c2 with c1 using map() function.Input : S =”callege” c1 = ‘a’, c2 = ‘o ‘ Output : ‘college’](https://github.com/atharva-narkhede/Python/blob/main/Week%207/Skill%20Builder/Write%20a%20Python%20function%20that%20accepts%20a%20string%20and%20calculates%20the%20number%20of%20upper%20case%20letters%20and%20lower%20case%20letters.%20Input%20format%20The%20first%20line%20of%20the%20input%20consists%20of%20strings.py)
+
+[Q10. Write a program to perform the following using recursive functions. a)Fibonacci of a series b)Factorial of a given number n](https://github.com/atharva-narkhede/Python/blob/main/Week%207/Skill%20Builder/Fibonacci_recursive_iterative.py)
