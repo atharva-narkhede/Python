@@ -1,3 +1,4 @@
+#Write a Python function to find the Max of three numbers.
 # You are using Python
 def max(a,b,c):
     if a>b and a>c:
