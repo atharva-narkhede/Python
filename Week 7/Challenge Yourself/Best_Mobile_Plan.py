@@ -1,3 +1,5 @@
+#Best Mobile Plan - St. Patrick Convent organizes a project exhibition "Innovative Minds" every year with an objective to provide the platform and unleash the potential of the students by showcasing their innovative projects.
+
 def printPlanDetails(a, b, c):
     A, B = 0, 0
     if a > 100:
