@@ -1,4 +1,6 @@
-// You are using Java
+#Charity Dinner WeCanNGO Trust is organizing a charity dinner at St. John’s College. Since older students are both wiser and richer, the members of the trust decide that the price of each ticket will be based on how many years the students have been in the school. A first-year student will buy a PINK ticket, a second-year student will buy a GREEN ticket, a third-year student will buy a RED ticket, and a fourth-year student will buy an ORANGE ticket.
+
+
 import java.util.*;
 class Main {
     public static void main(String args[]) {
