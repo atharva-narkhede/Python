@@ -1,3 +1,5 @@
+#Given 2 integers N,M find the GCD of N and M.If it cannot be found for given number(s) then print -1
+
 N=int(input())
 M=int(input())
 i=1
