@@ -1,3 +1,5 @@
+#Series 3 The Event Organizing Company "Buzzcraft" focuses on event management to create a win-win situation for all involved stakeholders. Buzzcraft doesn't look at building one-time associations with clients, instead, aim at creating long-lasting collaborations that will span years to come. This goal of the company has helped them evolve and expand big with organizing many events to date.
+
 n=int(input())
 a=1
 b=1
