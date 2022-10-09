@@ -6,3 +6,8 @@ while n>0:
         c+=1
     n=n//10
 print(c)
+
+#The code below also works the same question
+#num = input()
+#num = list(num)
+#print(num.count("4"))
