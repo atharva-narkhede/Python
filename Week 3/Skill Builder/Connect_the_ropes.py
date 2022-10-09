@@ -1,5 +1,5 @@
-#Kids Love Muffins 
-#Louis was celebrating his 10th Birthday and his parents have promised to make the best party ever for him. He will be very happy if he can invite all his friends to this party (he has many friends), but unfortunately, his parents can't invite everyone because they have a limited number of muffins, and they want everyone to be happy. As we all know, kids love to eat a lot of muffins of the same type, let's say a kid will be happy only if he can eat at least K muffins of the same type.
+#Connect the Ropes
+#It was Christmas Eve and the celebrations remembering the birth of Jesus were going on in full swing at the Cathedral Chapel. The Event Management Team had arranged for some exciting games after the mass worship and feast, where adults and kids of all ages participated very actively. "Connect the Ropes" was organized for the kids where each kid will be given N ropes and the goal of the game is that the kids have to connect all of the ropes with each other to get one rope. When kids connect 2 ropes with each other they lose 'k' units from each rope.
 
 n,k=map(int,input().split())
 L=list(map(int,input().split()))
