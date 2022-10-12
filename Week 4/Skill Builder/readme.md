@@ -1,4 +1,4 @@
-# Week 4 Skill builder
+# Neocolab Week 4 Skill Builder
 
 [Write a program that accepts n numbers from the user, stores them in a tuple, and prints the length, maximum and minimum number from the tuple.](https://github.com/atharva-narkhede/Python/blob/main/Week%204/Skill%20Builder/print_max_min_length_of_tuple.py)
 
