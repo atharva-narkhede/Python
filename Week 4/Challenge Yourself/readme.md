@@ -9,4 +9,4 @@
 [Write a Python program to remove an empty tuple(s) from a list of tuples. Given Tuple: L = [(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')]
 ](https://github.com/atharva-narkhede/Python/blob/main/Week%204/Challenge%20Yourself/remove_element_from_tuple.py)
 
-[To count the number of strings where the string length is 2 or more and the first and last characters are the same from a given list of strings. Sample List : ['abc', 'xyz', 'aba', '1221'] Expected Result : 2]()
+[To count the number of strings where the string length is 2 or more and the first and last characters are the same from a given list of strings. Sample List : ['abc', 'xyz', 'aba', '1221'] Expected Result : 2](https://github.com/atharva-narkhede/Python/blob/main/Week%204/Challenge%20Yourself/count_number_of_strings.py)
