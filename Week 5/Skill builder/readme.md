@@ -1,4 +1,4 @@
-#WEEK 5 SKILL BUILDER
+# Neocolab Week 5 Skill Builder
 
 [Q1. Sanjay and Rahul have a set of color crayons. Sanjay has a set of colors whereas Rahul has a set of colors. Write a program to find the colors they have in common. Print the colors that Rahul has but not Sanjay. Sanjay lost his Green color. Update this information.](https://github.com/atharva-narkhede/Python/blob/main/Week%205/Skill%20builder/Sanjay_and_Rahul.py)
 
