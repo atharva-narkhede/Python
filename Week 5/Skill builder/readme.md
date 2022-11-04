@@ -16,6 +16,6 @@
 
 [Q8. Write a Python program to generate a set in a set of lists whose sum of elements is the highest.]()
 
-[Q9. Write a python program to get a item in a bill which has the highest price. Items and prices are storing in dictionary format.]()
+[Q9. Write a python program to get a item in a bill which has the highest price. Items and prices are storing in dictionary format.](https://github.com/atharva-narkhede/Python/blob/main/Week%205/Skill%20builder/highest_price.py)
 
 [Q10. Create a dictionary for a stationery shop (Pen, Pencil, Paper, etc…) and print all unique values in a dictionary.]()
