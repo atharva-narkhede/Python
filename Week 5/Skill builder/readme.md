@@ -14,7 +14,7 @@
 
 [Q7. Let P represent Paper, R represent Rock and S represent Scissors. Given 2 out of the 3 determine which wins. If it's a drawing print D. Use Dictionary concept to get the result.](https://github.com/atharva-narkhede/Python/blob/main/Week%205/Skill%20builder/rock%20paper%20scissor.py)
 
-[Q8. Write a Python program to generate a set in a set of lists whose sum of elements is the highest.]()
+[Q8. Write a Python program to generate a set in a set of lists whose sum of elements is the highest.](https://github.com/atharva-narkhede/Python/blob/main/Week%205/Skill%20builder/Generate_set.py)
 
 [Q9. Write a python program to get a item in a bill which has the highest price. Items and prices are storing in dictionary format.](https://github.com/atharva-narkhede/Python/blob/main/Week%205/Skill%20builder/highest_price.py)
 
