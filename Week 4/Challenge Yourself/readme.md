@@ -10,3 +10,8 @@
 ](https://github.com/atharva-narkhede/Python/blob/main/Week%204/Challenge%20Yourself/remove_element_from_tuple.py)
 
 [To count the number of strings where the string length is 2 or more and the first and last characters are the same from a given list of strings. Sample List : ['abc', 'xyz', 'aba', '1221'] Expected Result : 2](https://github.com/atharva-narkhede/Python/blob/main/Week%204/Challenge%20Yourself/count_number_of_strings.py)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/atharva-narkhede-pythonw4py/count.svg" />
+</p>
