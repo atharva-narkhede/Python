@@ -20,11 +20,6 @@
 
 [Q10. Create a dictionary for a stationery shop (Pen, Pencil, Paper, etc…) and print all unique values in a dictionary.](https://github.com/atharva-narkhede/Python/blob/main/Week%205/Skill%20builder/Stationery_shop.py)
 
-# Python Codes
-[SRM SEM 3](https://github.com/atharva-narkhede/SRM-Sem3)\
-[PYTHON LAB CODES](https://github.com/atharva-narkhede/SRM-Sem3/tree/main/Python/Lab)\
-[ISCP HACKERRANK SOLUTIONS](https://github.com/THUNDERANKUSH/HACKERRANK-CODES)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/atharva-narkhede-pythonw5sk/count.svg" />
