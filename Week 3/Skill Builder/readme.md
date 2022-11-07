@@ -18,3 +18,8 @@
 [Charity Dinner WeCanNGO Trust is organizing a charity dinner at St. John’s College. Since older students are both wiser and richer, the members of the trust decide that the price of each ticket will be based on how many years the students have been in the school. A first-year student will buy a PINK ticket, a second-year student will buy a GREEN ticket, a third-year student will buy a RED ticket, and a fourth-year student will buy an ORANGE ticket.](https://github.com/atharva-narkhede/Python/blob/main/Week%203/Skill%20Builder/charity_dinner.py)
 
 [Series 1 The Event Organizing Company "Buzzcraft" focuses on event management to create a win-win situation for all involved stakeholders. Buzzcraft doesn't look at building one-time associations with clients, instead, aim at creating long-lasting collaborations that will span years to come. This goal of the company has helped them evolve and gain more clients within a notable time.](https://github.com/atharva-narkhede/Python/blob/main/Week%203/Skill%20Builder/Series_1.py)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/atharva-narkhede-pythonw3sb/count.svg" />
+</p>
