@@ -12,5 +12,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/atharva-narkhede-pythonw3py/count.svg" />
+  <img src="https://profile-counter.glitch.me/atharva-narkhede-pythonw3cy/count.svg" />
 </p>
