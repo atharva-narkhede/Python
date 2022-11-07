@@ -9,3 +9,8 @@
 [Math Challenge   In connection to the National Mathematics Day celebration, the Regional Mathematical Scholars Society had arranged for a Maths Challenge Event where high school students participated in large numbers. The first level of the challenge was an oral quiz, followed by a written test in the second round.  In the second round, the problem that the students had to answer goes like this:  For every positive number ‘n’ we define a function streak(n)=k as the smallest positive integer k such that n+k is not divisible by k+1.  E.g:](https://github.com/atharva-narkhede/Python/blob/main/Week%203/Challenge%20Yourself/Math_Challenge.py)
 
 [Lucky Cards   The Hatfield Game Fair is the premier event of its kind for adults interested in some intellectual and cognitive brain games. Exciting games were organized for kids between the ages group of 8 and 10. One such game was the "Lucky Cards", a simple two-player game, played with a deck of cards. The cards in the deck have these possible names: two, three, four, five, six, seven, eight, nine, ten, jack, queen, king, ace. The cards labeled jack, queen, king, ace is collectively known as high cards.  The numerical equivalent of the high cards is as given below:  Jack – 11  Queen – 12  King – 13  Ace - 1](https://github.com/atharva-narkhede/Python/blob/main/Week%203/Challenge%20Yourself/Lucky_Cards.py)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/atharva-narkhede-pythonw4py/count.svg" />
+</p>
