@@ -18,3 +18,8 @@
 [Q9. Write a program that accepts a string S, and characters c1, c2. Replace character c1 with c2 and c2 with c1 using map() function.Input : S =”callege” c1 = ‘a’, c2 = ‘o ‘ Output : ‘college’](https://github.com/atharva-narkhede/Python/blob/main/Week%207/Skill%20Builder/Write%20a%20Python%20function%20that%20accepts%20a%20string%20and%20calculates%20the%20number%20of%20upper%20case%20letters%20and%20lower%20case%20letters.%20Input%20format%20The%20first%20line%20of%20the%20input%20consists%20of%20strings.py)
 
 [Q10. Write a program to perform the following using recursive functions. a)Fibonacci of a series b)Factorial of a given number n](https://github.com/atharva-narkhede/Python/blob/main/Week%207/Skill%20Builder/Fibonacci_recursive_iterative.py)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/atharva-narkhede-pythonw7sb/count.svg" />
+</p>
