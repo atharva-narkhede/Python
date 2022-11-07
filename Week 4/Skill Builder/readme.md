@@ -20,11 +20,6 @@
 
 [Write a program to find the Kth smallest element in an unsorted list.](https://github.com/atharva-narkhede/Python/blob/main/Week%204/Skill%20Builder/find_kth_smallest_element.py)
 
-# Python Codes
-[SRM SEM 3](https://github.com/atharva-narkhede/SRM-Sem3)\
-[PYTHON LAB CODES](https://github.com/atharva-narkhede/SRM-Sem3/tree/main/Python/Lab)\
-[ISCP HACKERRANK SOLUTIONS](https://github.com/THUNDERANKUSH/HACKERRANK-CODES)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/atharva-narkhede-pythonw4sb/count.svg" />
