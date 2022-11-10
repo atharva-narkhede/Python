@@ -1,3 +1,5 @@
+#Write a program to append one list to another list.
+
 a=int(input())
 x=[]
 for i in range(1):
