@@ -7,7 +7,7 @@
 
 [Write a program to append one list to another list](https://github.com/adivishnu-a/Python/blob/main/Week%205/Challenge%20Yourself/append_list.py)
 
-[]()
+[The Company is launching a network of autonomous pizza delivery drones and wants you to create a flexible rewards system - Pizza Points. The rules are simple: if a customer has made at least N orders(min_order) of at least Y(min_price) price, they get a FREE pizza!!!](https://github.com/adivishnu-a/Python/blob/main/Week%205/Challenge%20Yourself/pizza_delivery_drones.py)
 
 []()
 
