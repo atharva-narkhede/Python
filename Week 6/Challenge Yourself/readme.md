@@ -1,4 +1,4 @@
-# Week 6 Skill Builder
+# Week 6 Challenge Yourself
 
 []()
 
