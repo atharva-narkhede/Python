@@ -1,4 +1,5 @@
 #Write a program that takes a string, and returns a new string with any duplicate consecutive letters removed.
+
 string = input()
 result_string = ""
 for char in string:
