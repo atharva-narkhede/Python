@@ -16,9 +16,9 @@
 
 [The class representative has asked every student in the class to enter their rollno, name and cgpa in google word document. The students have filled the information in single rows, but in random order in a file called student.txt. The information has to be read , sorted based on rollno and then written in a new file ‘sortedstudent.txt’ . If input text file contains rows of information separated by the character ‘~’ as shown below:](https://github.com/atharva-narkhede/Python/blob/main/Week%209/Skill%20Builder/class_representative.py)
 
-[***Write a program that will count the number of characters, spaces, words, and lines in a file. Words are separated by a white space character.]()
+[Write a program that will count the number of characters, spaces, words, and lines in a file. Words are separated by a white space character.](https://github.com/atharva-narkhede/Python/blob/main/Week%209/Skill%20Builder/count_char_spaces_words.py)
 
-[***You are using a program to assist in the representative selection in your class. Three persons are interested in contesting for the post. Each person is given a nomination id like ‘10’,’20’,’30’. Every student in your class enters only the nomination id in the system. ]()
+[You are using a program to assist in the representative selection in your class. Three persons are interested in contesting for the post. Each person is given a nomination id like ‘10’,’20’,’30’. Every student in your class enters only the nomination id in the system. ](https://github.com/atharva-narkhede/Python/blob/main/Week%209/Skill%20Builder/representative_selection.py)
 
 
 <p align="center"> 
