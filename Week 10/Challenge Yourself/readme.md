@@ -1,10 +1,10 @@
 # Week 10 Challenge Yourself
 
-[Create a class called Sum. Write a Python program to find the three elements that sum to zero from a set (array) of n real numbers.]()
+[Create a class called Sum. Write a Python program to find the three elements that sum to zero from a set (array) of n real numbers.](https://github.com/atharva-narkhede/Python/blob/main/Week%2010/Challenge%20Yourself/class_sum.py)
 
-[Create a class called py_solution.Write a Python program to get all possible unique subsets from a set of distinct integers.]()
+[Create a class called py_solution.Write a Python program to get all possible unique subsets from a set of distinct integers.](https://github.com/atharva-narkhede/Python/blob/main/Week%2010/Challenge%20Yourself/class_py_solution.py)
 
-[Create a Book class that has two attributes :title author]()
+[Create a Book class that has two attributes :title author](https://github.com/atharva-narkhede/Python/blob/main/Week%2010/Challenge%20Yourself/class_Book.py)
 
 
 <p align="center"> 
